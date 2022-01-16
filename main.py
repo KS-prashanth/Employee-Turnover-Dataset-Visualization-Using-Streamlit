@@ -140,5 +140,5 @@ st.write(f"Accuracy =", acc)
 with st.container():
     st.title("About")
     st.image("Prashanth.jpg", caption="Karnati Sai Prashanth", width=150)
-    st.image("jayanth.jpeg", caption="Jayanth Mohan", width=150)
+    
 
