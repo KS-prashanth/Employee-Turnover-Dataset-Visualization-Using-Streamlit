@@ -3,6 +3,3 @@ streamlit
 pandas 
 numpy
 matplotlib
-
-
-sklearn  streamlit pandas  numpy matplotlib
