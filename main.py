@@ -137,8 +137,8 @@ st.write(f"Accuracy =", acc)
 
 ###############################################################
 ##About
-with st.container():
-    st.title("About")
-    st.image("Prashanth.jpg", caption="Karnati Sai Prashanth", width=150)
+# with st.container():
+#     st.title("About")
+#     st.image("Prashanth.jpg", caption="Karnati Sai Prashanth", width=150)
     
 
