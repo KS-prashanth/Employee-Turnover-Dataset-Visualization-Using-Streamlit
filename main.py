@@ -136,9 +136,9 @@ st.write(f"Classifier = {classifier_name}")
 st.write(f"Accuracy =", acc)
 
 ###############################################################
-##About
-# with st.container():
-#     st.title("About")
-#     st.image("Prashanth.jpg", caption="Karnati Sai Prashanth", width=150)
+#About
+with st.container():
+    st.title("About")
+    st.image("Prashanth.jpg", caption="Karnati Sai Prashanth", width=150)
     
 
